@@ -1,3 +1,3 @@
 # LoginServiceV1
 
-Basic Authorisation is Enabled with Spring Security
+Basic Authentication is Enabled with Spring Security
